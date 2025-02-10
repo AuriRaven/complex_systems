@@ -1,4 +1,4 @@
 # Introduction to Complex Systems
 
-Repository for Complex Systems Lectures at C3 UNAM
+Repository for Max Aldana Complex Systems Lectures at C3 UNAM (2023)
 
